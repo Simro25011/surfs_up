@@ -13,6 +13,4 @@ https://github.com/Simro25011/surfs_up/blob/main/Ressources/June%20Temperature.p
  
 https://github.com/Simro25011/surfs_up/blob/main/Ressources/December%20Temperature.png
 
-June Temperature                       |  December Temperature 
-:------------------------------------: |:------------------------------------------:
 ![](https://github.com/Simro25011/surfs_up/blob/main/Ressources/June%20Temperature.png) |  ![](https://github.com/Simro25011/surfs_up/blob/main/Ressources/December%20Temperature.png)
