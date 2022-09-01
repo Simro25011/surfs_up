@@ -7,12 +7,15 @@ W. Avy  would like more information on temperature trends before opening a surf 
 ## Results
 
 ### June Temperature 
+
 https://github.com/Simro25011/surfs_up/blob/main/Ressources/June%20Temperature.png
 
+- The Average temperature is 
+ - The Min temperature is 
+  - the Max temperature is 
 
- 
+### December Temperature
+
 https://github.com/Simro25011/surfs_up/blob/main/Ressources/December%20Temperature.png
 
-![](https://github.com/Simro25011/surfs_up/blob/main/Ressources/June%20Temperature.png) |  ![](https://github.com/Simro25011/surfs_up/blob/main/Ressources/December%20Temperature.png)
 
-<img src="https://github.com/Simro25011/surfs_up/blob/main/Ressources/June%20Temperature.png" width="200"/> <img src=https://github.com/Simro25011/surfs_up/blob/main/Ressources/December%20Temperature.png" width="300"/>
