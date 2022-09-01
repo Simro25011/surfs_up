@@ -9,6 +9,10 @@ W. Avy  would like more information on temperature trends before opening a surf 
 ### June Temperature 
 https://github.com/Simro25011/surfs_up/blob/main/Ressources/June%20Temperature.png
 
-### December Temperature 
+
  
 https://github.com/Simro25011/surfs_up/blob/main/Ressources/December%20Temperature.png
+
+June Temperature                       |  December Temperature 
+:------------------------------------: |:------------------------------------------:
+![](https://...June%20Temperature.png) |  ![](https://...December%20Temperature.png)
