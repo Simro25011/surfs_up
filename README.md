@@ -24,4 +24,11 @@ https://github.com/Simro25011/surfs_up/blob/main/Ressources/December%20Temperatu
 
 
 ## Summary
+
 Oahu has relatively consistent temperatures throughout the year, with a low probability of sustained precipitation. If we rewrite the query to add precipitation to the results for June and December, the average precipitation for those months appears as
+
+https://github.com/Simro25011/surfs_up/blob/main/Ressources/June%20Precipitations.png
+
+https://github.com/Simro25011/surfs_up/blob/main/Ressources/December%20Precipitations.png
+
+The assumption is that neither  the temperature or the precipitations don't  have dramatic fluctuations throughout the year. Oahu is a sweet spot!
