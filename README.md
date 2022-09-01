@@ -10,12 +10,18 @@ W. Avy  would like more information on temperature trends before opening a surf 
 
 https://github.com/Simro25011/surfs_up/blob/main/Ressources/June%20Temperature.png
 
-- The Average temperature is 
- - The Min temperature is 
-  - the Max temperature is 
+- The Average temperature is 75℉
+ - The Min temperature is 64℉
+  - the Max temperature is 85℉
 
 ### December Temperature
 
 https://github.com/Simro25011/surfs_up/blob/main/Ressources/December%20Temperature.png
 
+- The Average temperature is 71.℉
+ - The Min temperature is 56℉
+  - the Max temperature is 83℉
 
+
+## Summary
+Oahu has relatively consistent temperatures throughout the year, with a low probability of sustained precipitation. If we rewrite the query to add precipitation to the results for June and December, the average precipitation for those months appears as
