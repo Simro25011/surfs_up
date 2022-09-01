@@ -14,3 +14,5 @@ https://github.com/Simro25011/surfs_up/blob/main/Ressources/June%20Temperature.p
 https://github.com/Simro25011/surfs_up/blob/main/Ressources/December%20Temperature.png
 
 ![](https://github.com/Simro25011/surfs_up/blob/main/Ressources/June%20Temperature.png) |  ![](https://github.com/Simro25011/surfs_up/blob/main/Ressources/December%20Temperature.png)
+
+<img src="https://github.com/Simro25011/surfs_up/blob/main/Ressources/June%20Temperature.png" width="200"/> <https://github.com/Simro25011/surfs_up/blob/main/Ressources/December%20Temperature.png" width="300"/>
